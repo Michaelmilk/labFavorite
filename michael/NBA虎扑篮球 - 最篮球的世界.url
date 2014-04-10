@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://nba.hupu.com/
+[DOC#1057]
+BASEURL=http://caipiao.hupu.com/page/zhuanti/hoopchina/hoopchina_jclq_w320.shtml
+ORIGURL=about:blank
+[DOC#2559]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=http://sports.cntv.cn/nba/z/hoopchinanba/?S=mk2_hupu
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://nba.hupu.com/
+IDList=
+IconFile=http://b3.hoopchina.com.cn/common/favicon.ico
+IconIndex=1

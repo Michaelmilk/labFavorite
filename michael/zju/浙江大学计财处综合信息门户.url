@@ -1,0 +1,10 @@
+[DEFAULT]
+BASEURL=http://cwcx.zju.edu.cn/WFManager/mainSSO4.jsp
+[DOC#136]
+BASEURL=http://cwcx.zju.edu.cn/WF_YB/main2.jsp?roles=6&context=_@0-UINFO.USERID_@:_@21321281_@,_@0-UINFO.USERNAME_@:_@¸ð¼ªÐÛ_@,_@0-UINFO.MODBDATE_@:_@N_@,_@0-UINFO.MODPWD_@:_@Y_@,_@0-UINFO.DEPT1_@:_@_@,_@0-UINFO.DEPT2_@:_@_@,_@0-UINFO.DEPT3_@:_@_@,_@0-UINFO.DEPT4_@:_@_@,_@0-UINFO.SPEC1_@:_@_@,_@0-UINFO.SPEC2_@:_@_@,_@0-UINFO.SPEC3_@:_@_@,_@0-UINFO.SPEC4_@:_@_@&sid=f6562010dbd9045270a68dc55887e870&uid=21321281&sso=y&pId=wf_yb
+ORIGURL=../WF_YB/main2.jsp?roles=6&context=_@0-UINFO.USERID_@:_@21321281_@,_@0-UINFO.USERNAME_@:_@¸ð¼ªÐÛ_@,_@0-UINFO.MODBDATE_@:_@N_@,_@0-UINFO.MODPWD_@:_@Y_@,_@0-UINFO.DEPT1_@:_@_@,_@0-UINFO.DEPT2_@:_@_@,_@0-UINFO.DEPT3_@:_@_@,_@0-UINFO.DEPT4_@:_@_@,_@0-UINFO.SPEC1_@:_@_@,_@0-UINFO.SPEC2_@:_@_@,_@0-UINFO.SPEC3_@:_@_@,_@0-UINFO.SPEC4_@:_@_@&sid=f6562010dbd9045270a68dc55887e870&uid=21321281&sso=y&pId=wf_yb
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://cwcx.zju.edu.cn/WFManager/mainSSO4.jsp
+IDList=

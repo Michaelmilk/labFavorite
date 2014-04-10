@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://www.vckbase.com/index.php/wv/370
+[DOC#960]
+BASEURL=http://www.vckbase.com/index.php/wv/370
+ORIGURL=javascript:void(function(){document.open()%3Bdocument.close()%3B}())
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.vckbase.com/index.php/wv/370
+IDList=
+IconFile=http://www.vckbase.com/favicon.ico
+IconIndex=1

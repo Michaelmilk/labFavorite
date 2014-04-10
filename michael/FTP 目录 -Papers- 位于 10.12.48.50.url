@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=ftp://10.12.48.50/Papers/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,1
+[InternetShortcut]
+URL=ftp://10.12.48.50/Papers/
+IDList=

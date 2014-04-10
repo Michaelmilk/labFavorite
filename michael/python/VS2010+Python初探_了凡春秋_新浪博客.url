@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://blog.sina.com.cn/s/blog_6163bdeb01017zmu.html
+[DOC_tanxssp-outer-iframemm_15890324_2192376_11153352]
+BASEURL=http://blog.sina.com.cn/s/blog_6163bdeb01017zmu.html
+ORIGURL=javascript:void((function(){try{var d=document;d.open();d.domain='sina.com.cn';d.write('');d.close();}catch(e){}})())
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.sina.com.cn/s/blog_6163bdeb01017zmu.html
+IDList=
+IconFile=http://blog.sina.com.cn/favicon.ico
+IconIndex=1

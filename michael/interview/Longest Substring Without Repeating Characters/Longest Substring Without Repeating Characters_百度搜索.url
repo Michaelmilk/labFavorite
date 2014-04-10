@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www.baidu.com/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.baidu.com/#wd=Longest%20Substring%20Without%20Repeating%20Characters&rsv_bp=0&tn=baidu&rsv_spt=3&ie=utf-8&rsv_sug3=1&rsv_sug4=15&inputT=0
+IDList=
+IconFile=http://www.baidu.com/favicon.ico
+IconIndex=1

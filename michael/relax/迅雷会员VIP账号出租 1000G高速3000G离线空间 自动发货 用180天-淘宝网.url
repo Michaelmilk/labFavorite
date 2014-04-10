@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://item.taobao.com/item.htm?spm=2013.1.0.0.HifRCw&scm=1007.10011.534.0&id=37410896104&pvid=514aa0ce-1652-4694-b11e-7b329a8ae085
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://item.taobao.com/item.htm?spm=2013.1.0.0.HifRCw&scm=1007.10011.534.0&id=37410896104&pvid=514aa0ce-1652-4694-b11e-7b329a8ae085
+IDList=
+IconFile=http://www.taobao.com/favicon.ico
+IconIndex=1

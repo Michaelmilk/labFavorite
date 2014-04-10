@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://grs.zju.edu.cn/py/page/student/grkcgl.htm
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://grs.zju.edu.cn/py/page/student/grkcgl.htm
+IDList=
+IconFile=http://grs.zju.edu.cn/resource/img/favicon.ico
+IconIndex=1

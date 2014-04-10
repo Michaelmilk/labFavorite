@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://jiyuede.blog.163.com/blog/static/33251921201211302343162/
+[DOC#899]
+BASEURL=http://jiyuede.blog.163.com/blog/static/33251921201211302343162/
+ORIGURL=http://jiyuede.blog.163.com/crossdomain.html
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://jiyuede.blog.163.com/blog/static/33251921201211302343162/
+IDList=
+IconFile=http://jiyuede.blog.163.com/favicon.ico
+IconIndex=1

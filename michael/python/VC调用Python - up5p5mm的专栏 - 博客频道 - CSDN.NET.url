@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=http://blog.csdn.net/up5p5mm/article/details/2613854
+[DOC#518_baidu_clb_slot_iframe_629767]
+BASEURL=http://zz.csdn.net/bin/logs.php
+ORIGURL=about:blank
+[DOC#518_baidu_clb_slot_iframe_421718]
+BASEURL=http://zz.csdn.net/bin/logs.php
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.csdn.net/up5p5mm/article/details/2613854
+IDList=
+IconFile=http://blog.csdn.net/favicon.ico
+IconIndex=1

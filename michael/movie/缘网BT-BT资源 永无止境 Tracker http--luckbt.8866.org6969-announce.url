@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://luckweb.057101.com/bt2/index.asp
+[DOC#7#9]
+BASEURL=http://luckweb.057101.com/bt2/list.asp
+ORIGURL=list.asp
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://luckweb.057101.com/bt2/index.asp
+IDList=
+IconFile=http://luckweb.057101.com/favicon.ico
+IconIndex=1

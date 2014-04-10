@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://think.lenovo.com.cn/support/driver/MachineDriverCD.aspx?yt=pt&categoryid=11212&CODEName=ThinkPad+E445&SearchType=0&wherePage=2&osid=233
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://think.lenovo.com.cn/support/driver/MachineDriverCD.aspx?yt=pt&categoryid=11212&CODEName=ThinkPad+E445&SearchType=0&wherePage=2&osid=233
+IDList=
